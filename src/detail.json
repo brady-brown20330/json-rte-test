@@ -1,0 +1,83 @@
+{
+  "json_rte_test": [
+    {
+      "uid": "5352497286fe47908c51c4b0483a7de6",
+      "attrs": {},
+      "children": [
+        {
+          "type": "p",
+          "attrs": {},
+          "uid": "51aeff6659924dbaa07818e33e6a664c",
+          "children": [
+            { "text": "" },
+            {
+              "uid": "7b27314688cd4a87a4984e339ef58a1b",
+              "type": "span",
+              "attrs": {},
+              "children": [
+                {
+                  "text": "Launched in Spring 2019, RED CLUB x Cartier officially kicks off its celebration of building connections between young entrepreneurs from across the globe. Established by Cartier, RED CLUB x Cartier is a community that connects global young entrepreneurs who have strong ties with Asia and who aim at having a positive impact on society through their businesses."
+                }
+              ]
+            },
+            { "text": "" }
+          ]
+        },
+        {
+          "type": "p",
+          "attrs": {},
+          "uid": "ac4dcffb9ed144fd9c3883180f2cc24d",
+          "children": [
+            { "text": "" },
+            {
+              "uid": "2b24bfd7274241038562863928ae6870",
+              "type": "span",
+              "attrs": {},
+              "children": [{ "text": "" }]
+            },
+            { "text": "" },
+            {
+              "uid": "503db01311cf445ca2e6b77ed7fd8724",
+              "type": "span",
+              "attrs": {},
+              "children": [
+                {
+                  "text": "Initially launched in France, Italy and in the United Kingdom, RED CLUB x Cartier seeks out audacious entrepreneurs who either come from Asia or have a strong relationship with Asia. As a community, RED CLUB x Cartier encourages these entrepreneurs to connect with each other beyond their individual organizations, and mutually share their experience of starting, funding, and running a business, with the common denominator of their deep connection with Asia. As RED CLUB x Cartier successfully grows, the community has extended to Russia and Japan in 2021."
+                }
+              ]
+            },
+            { "text": "" }
+          ]
+        },
+        {
+          "type": "p",
+          "attrs": {},
+          "uid": "146be40d580f4d94a81acfbaad58df8a",
+          "children": [
+            { "text": "" },
+            {
+              "uid": "ea5118f15ec84fc29733c7ea9e7a73ab",
+              "type": "span",
+              "attrs": {},
+              "children": [{ "text": "" }]
+            },
+            { "text": "" },
+            {
+              "uid": "7c88706a36bd4d44b6648435f8c68b3c",
+              "type": "span",
+              "attrs": {},
+              "children": [
+                {
+                  "text": "As of today, Red Club x Cartier welcomes 19 members from 5 countries from a broad range of industries: Food, Fashion, Energy, Technology, Blockchain etc."
+                }
+              ]
+            },
+            { "text": "" }
+          ]
+        }
+      ],
+      "type": "doc",
+      "_version": 53
+    }
+  ]
+}
